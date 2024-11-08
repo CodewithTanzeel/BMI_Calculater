@@ -1,5 +1,3 @@
-# BMI Calculator
-
 # Get user's weight in pounds
 weight_pounds = float(input("Enter your weight in pounds: "))
 
